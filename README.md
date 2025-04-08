@@ -1,8 +1,9 @@
 # NSTU Job Bot (Бот для поиска подработки НГТУ)
-
 [![Python Version](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![Aiogram Version](https://img.shields.io/badge/Aiogram-3.7+-cyan.svg)](https://github.com/aiogram/aiogram)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Телеграм-бот, предназначенный для упрощения поиска краткосрочной подработки для студентов Новосибирского Государственного Технического Университета (НГТУ) и поиска исполнителей для местных работодателей.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+Телеграм-бот, предназначенный для упрощения поиска краткосрочной подработки для студентов Новосибирского Государственного Технического Университета (НГТУ) и поиска исполнителей для местных работодателей.
 
 ## Описание
 
