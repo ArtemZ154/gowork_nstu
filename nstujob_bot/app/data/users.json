@@ -1,0 +1,27 @@
+{
+    "824640300": {
+        "role": "employer",
+        "name": "KapranStudio",
+        "contacts": "+78890004553",
+        "full_name": "Капран Роман Александрович"
+    },
+    "5747537640": {
+        "role": "student",
+        "group": "ЭМ-43",
+        "contacts": "@sivchik13",
+        "full_name": "Сиволап Кирилл"
+    },
+    "1049569858": {
+        "role": "student",
+        "group": "эн2-42",
+        "contacts": "@arbyz2006",
+        "full_name": "гребнев дмитрий сергеевич"
+    },
+    "751337408": {
+        "role": "student",
+        "group": 77850,
+        "contacts": "@sdf",
+        "full_name": "Зимин Артём Дмитриевич",
+        "mobility": false
+    }
+}
