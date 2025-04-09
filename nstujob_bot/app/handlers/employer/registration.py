@@ -1,7 +1,7 @@
 from aiogram import Router, types
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
-from app.states.registration import RegistrationStates
+from ...states.registration import RegistrationStates
 
 router = Router()
 
